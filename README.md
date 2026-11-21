@@ -465,3 +465,18 @@ eg
 AHI scripts can be compiled (Right click the script and select "Compile")  
 All required DLLs will be packed inside the EXE, so only the EXE needs to be distributed  
 When the EXE is run, the `Lib` folder will be created with the required DLLs  
+
+<!-- project-screenshot-gallery:start -->
+## Screenshots
+
+The monitor and setup captures are from the [upstream project](https://github.com/evilC/AutoHotInterception).
+
+<p>
+  <a href="Monitor.png"><img src="Monitor.png" alt="Device monitor" width="440"></a>
+  <a href="docs/screenshots/readme/02-surucu-kurulumu.png"><img src="docs/screenshots/readme/02-surucu-kurulumu.png" alt="Interception driver installation" width="440"></a>
+</p>
+
+<p>
+  <a href="docs/screenshots/readme/03-klasor-kurulumu.png"><img src="docs/screenshots/readme/03-klasor-kurulumu.png" alt="AutoHotInterception folder setup" width="440"></a>
+</p>
+<!-- project-screenshot-gallery:end -->
